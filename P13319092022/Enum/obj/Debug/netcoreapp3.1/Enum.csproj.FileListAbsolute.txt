@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133\P13319092022\Enum\bin\Debug\netcoreapp3.1\Enum.exe
+C:\Users\hamid.mammadov\Desktop\P133\P13319092022\Enum\bin\Debug\netcoreapp3.1\Enum.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\P13319092022\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\P13319092022\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\P13319092022\Enum\bin\Debug\netcoreapp3.1\Enum.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13319092022\Enum\bin\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13319092022\Enum\obj\Debug\netcoreapp3.1\Enum.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13319092022\Enum\obj\Debug\netcoreapp3.1\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\P13319092022\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13319092022\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\P13319092022\Enum\obj\Debug\netcoreapp3.1\Enum.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13319092022\Enum\obj\Debug\netcoreapp3.1\Enum.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13319092022\Enum\obj\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13319092022\Enum\obj\Debug\netcoreapp3.1\Enum.genruntimeconfig.cache

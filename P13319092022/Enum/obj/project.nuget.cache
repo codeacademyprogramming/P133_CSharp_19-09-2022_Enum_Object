@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DRhJ4VLNKxYqIMQBb3lgu/mj9Bpdy+2ntoMjFnigt0R7z/K6RVxAOQ8A0cfY2qFSzxzz3xzi3exNazZGoDIIgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamid.mammadov\\Desktop\\P133\\P13319092022\\Enum\\Enum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamid.mammadov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
